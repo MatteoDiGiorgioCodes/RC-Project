@@ -1,0 +1,12 @@
+Hostname server=localhost
+Follower callback service name=TEST1
+Register service name=REGISTER
+UDP group name=230.230.230.230
+Server port=8000
+Follower callback service port=1000
+Registry port=200
+UDP port=9000
+Reward author percentage=70
+Time lapse between rewards (ms)=120000
+Time lapse between backups (ms)=120000
+Size of the buffer=2048

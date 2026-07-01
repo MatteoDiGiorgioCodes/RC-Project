@@ -1,0 +1,6 @@
+Server hostname=localhost
+Follower callback service name=TEST1
+Register service name=REGISTER
+Server port=8000
+Registry port=200
+Size of the buffer=2048
